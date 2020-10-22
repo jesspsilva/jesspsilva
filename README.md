@@ -6,18 +6,16 @@ I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
 
 ## :star: Skills
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
+![HTML](https://user-images.githubusercontent.com/24191107/96916530-9198d500-149f-11eb-94fe-d661aef54187.png)
+![CSS](https://user-images.githubusercontent.com/24191107/96916528-91003e80-149f-11eb-879e-a0f4d53c3106.PNG)
+![JavaScript](https://user-images.githubusercontent.com/24191107/96916531-92316b80-149f-11eb-9947-91b83b8e3155.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspsilva&layout=compact)](https://github.com/jesspsilva/github-readme-stats)
 
 ## :books: Learning
 
-- Improving JavaScript knowledge
-- ReactJS
-- React Native
+![ReactJS](https://user-images.githubusercontent.com/24191107/96916535-92ca0200-149f-11eb-8af0-bca8415eaeb8.png)
+![ReactNative](https://user-images.githubusercontent.com/24191107/96916533-92316b80-149f-11eb-8473-f0e9091fbcd9.png)
 
 ## :headphones: Hobbies
 
