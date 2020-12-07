@@ -1,6 +1,6 @@
 # :smiley: Hello!
 
-My name is Jéssica Silva, I'm 25 years old and I live in Porto. I'm working as web developer since 2018. I'm focused on web development/frontend. 
+My name is Jéssica Silva, I'm 25 years old and I live in Porto. I'm currently working as web developer since 2018. I'm focused on web development/frontend. 
 
 I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
 
@@ -25,6 +25,5 @@ I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
 
 ## :speech_balloon: Social
 
-<a href="https://www.linkedin.com/in/jessipsilva/" target="_blank"><img src="https://user-images.githubusercontent.com/24191107/97038494-d3d71a80-1562-11eb-86c9-7ad0e6bbc229.png" alt="linkedin"></a>
-
-<a href="https://jesspsilva.github.io/website/" target="_blank"><img src="https://user-images.githubusercontent.com/24191107/97038498-d46fb100-1562-11eb-94c8-490a53bf9eae.png" alt="site"></a>
+<p style="display: inline-block"><a href="https://www.linkedin.com/in/jessipsilva/" target="_blank"><img src="https://user-images.githubusercontent.com/24191107/97038494-d3d71a80-1562-11eb-86c9-7ad0e6bbc229.png" alt="linkedin"></a>
+<a href="https://jesspsilva.github.io/website/" target="_blank"><img src="https://user-images.githubusercontent.com/24191107/97038498-d46fb100-1562-11eb-94c8-490a53bf9eae.png" alt="site"></a></p>
