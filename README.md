@@ -24,7 +24,6 @@ I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
 :green_heart: Friends
 
 ### :speech_balloon: Social
-
-![linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/jessipsilva/)
-![website](https://img.shields.io/badge/-Website-990000?style=for-the-badge&link=https://jesspsilva.github.io/website/)
+<a href="https://www.linkedin.com/in/jessipsilva/" target="_blank">![linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge)</a>
+<a href="https://jesspsilva.github.io/website/" target="_blank">![website](https://img.shields.io/badge/-Website-990000?style=for-the-badge)</a>
 
