@@ -5,7 +5,7 @@ I'm currently working as a Frontend-Developer.
 
 I'm always trying to learn new things. 
 
-I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
+I'm currently trying to increase my knowledge by learning React. :muscle: :pray:
 
 ### :star: Skills
 
