@@ -19,7 +19,7 @@ I'm currently trying to increase my knowledge by learning React. :muscle: :pray:
 ### :books: Learning
 
 ![reactjs](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=for-the-badge)
-![native](https://img.shields.io/badge/-React%20Native-blue?logo=React&logoColor=white&style=for-the-badge)
+![vuejs](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
 
 ### :headphones: Hobbies
 
