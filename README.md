@@ -1,11 +1,7 @@
 ## :smiley: Hello!
 
-My name is Jéssica Silva, I'm 25 years old and I live in Porto. 
+My name is Jéssica Silva, I'm 27 years old and I live in Porto. 
 I'm currently working as a Frontend-Developer.
-
-I'm always trying to learn new things. 
-
-I'm currently trying to increase my knowledge by learning React. :muscle: :pray:
 
 ### :star: Skills
 
@@ -13,13 +9,9 @@ I'm currently trying to increase my knowledge by learning React. :muscle: :pray:
 ![css](https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge)
 ![sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript&logoColor=white&style=for-the-badge)
+![vuejs](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspsilva&layout=compact&theme=tokyonight)](https://github.com/jesspsilva/github-readme-stats)
-
-### :books: Learning
-
-![reactjs](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=for-the-badge)
-![vuejs](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
 
 ### :headphones: Hobbies
 
