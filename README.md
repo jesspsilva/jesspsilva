@@ -1,24 +1,10 @@
-## :smiley: Hello!
+# 👋 Hey, I'm Jessica!
+I'm a frontend enthusiast born in '95. When I'm not busy crafting code, you can catch me exploring nature or battling it out on the padel court!
 
-My name is Jéssica Silva, I'm 27 years old and I live in Porto. 
-I'm currently working as a Frontend-Developer.
+## 🌟 Highlights
+- **Passionate Developer:** Driven by curiosity and fueled by coffee, I'm on a mission to push the boundaries of web development.
+- **Outdoor Enthusiast:** When I'm not coding, you'll find me hiking trails, chasing sunsets, or perfecting my padel serve.
+- **Eternal Learner:** In the ever-evolving world of tech, there's always something new to discover, and I'm eager to embrace the challenge.
 
-### :star: Skills
-
-![html](https://img.shields.io/badge/-HTML-orange?logo=HTML5&logoColor=white&style=for-the-badge)
-![css](https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white&style=for-the-badge)
-![sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)
-![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=Javascript&logoColor=white&style=for-the-badge)
-![vuejs](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspsilva&layout=compact&theme=tokyonight)](https://github.com/jesspsilva/github-readme-stats)
-
-### :headphones: Hobbies
-
-:musical_note: Music || 
-:movie_camera: Movies ||
-:green_heart: Friends
-
-### :speech_balloon: Social
-<a href="https://www.linkedin.com/in/jessipsilva/" target="_blank">![linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge)</a>
-<a href="https://jesspsilva.github.io/website/" target="_blank">![website](https://img.shields.io/badge/-Website-990000?style=for-the-badge)</a>
+### 📧 Get in Touch
+- LinkedIn: [linkedin.com/in/jessica](https://linkedin.com/in/jessica)
